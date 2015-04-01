@@ -1,3 +1,9 @@
+phpmyadmin (4:4.0.10-1ubuntu1) stable; urgency=medium
+
+  * Allow uwsgi for web server
+
+ -- Jean-Baptiste Quenot <jbq@caraldi.com>  Wed, 01 Apr 2015 15:02:35 +0200
+
 phpmyadmin (4:4.0.10-1) unstable; urgency=medium
 
   * New upstream release.
